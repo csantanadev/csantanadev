@@ -1,8 +1,4 @@
-# Saudações
-
-Me chamo Carlos Santana, sou apaixonado por gestão de produtos e adoro criar coisas que envolvam tecnologia. 
-
-## Tecnologias que já tive contato:
+# Tecnologias que já tive contato:
 
 * React e React Native
 * Angular / AngulasJS
