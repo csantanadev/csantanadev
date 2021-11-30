@@ -6,6 +6,6 @@
 * C# 
 * PHP
 * Delphi
-* Oracle, PostgreSql e MS-SQL
+* Oracle, PostgreSql e SQL Server
 
 Você pode me encontrar em: https://www.linkedin.com/in/carlos-santana-b4425522/
