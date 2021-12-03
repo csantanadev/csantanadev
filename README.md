@@ -2,7 +2,7 @@
 
 * React 
 * React Native - https://github.com/csantanadev/pda-mobile-app
-* AngulasJS - 
+* AngulasJS - https://github.com/csantanadev/pda-frontend-app
 * Angular
 * Node JS
 * C# 
