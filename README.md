@@ -1,7 +1,7 @@
 # Tecnologias que já tive contato:
 
 * React 
-* React Native - https://github.com/csantanadev/pda-mobile-app
+* React Native - https://play.google.com/store/apps/details?id=com.ticeos.peladadosamigos
 * AngulasJS - https://github.com/csantanadev/pda-frontend-app
 * Angular
 * Node JS
