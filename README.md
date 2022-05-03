@@ -9,4 +9,4 @@
 * Delphi
 * Oracle, PostgreSql e SQL Server - https://github.com/csantanadev/desafios-sql
 
-Você pode me encontrar em: https://www.linkedin.com/in/carlos-santana-b4425522/
+Você pode me encontrar em: https://www.linkedin.com/in/carlos-eduardo-o-de-santana/
