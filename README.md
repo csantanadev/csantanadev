@@ -1,5 +1,4 @@
 ## Olá, sou Carlos Santana 👏🏻
-- 🧑🏻‍💻 Bem Vindo ao meu GitHub
 - 🖥️ Developer | Node | React | React Native | AngularJS | Delphi | Oracle, PostgreSql e SQL Server
 
 <div>
