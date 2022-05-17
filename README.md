@@ -3,10 +3,6 @@
 - 🖥️ Developer | Node | React | React Native | AngularJS | Delphi | Oracle, PostgreSql e SQL Server
 
 <div>
-  <a href="https://github.com/MarlosIgor">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=csantanadev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csantanadev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>  
   <div style="display: inline_block"><br>    
   <img align="center" alt="NodeJs" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
   <img align="center" alt="ReactJs" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
