@@ -1,5 +1,5 @@
 ## Olá, sou Carlos Santana 👏🏻
-- 🖥️ Developer | Node | React | React Native | AngularJS | Delphi | Oracle, PostgreSql e SQL Server
+- 🖥️ Developer | Node | .Net | React | React Native | AngularJS | Delphi | Oracle, PostgreSql e SQL Server
 
 <div>
   <div style="display: inline_block"><br>    
@@ -20,7 +20,7 @@
   <div>
 
 <br>    
-<strong> Algumas contribuições </strong>    
+<strong> Projetos pessoais </strong>    
 <br>    <br>
     
 * React Native - https://play.google.com/store/apps/details?id=com.ticeos.peladadosamigos
